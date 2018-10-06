@@ -11,3 +11,6 @@
 @import "category.css";
 @import "tag.css";
 @import "search.css";
+
+@import "_partial/header";
+@import "_partial/post";
